@@ -2,8 +2,8 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import App from './App';
 
+// ENVIA CÓDIGOS EM HTML DENTRO DO ELEMENTO CUJO O ID É "ROOT"
 ReactDOM.render(
-  // ENVIA CÓDIGOS EM HTML DENTRO DO ELEMENTO CUJO O ID É "ROOT"
   <React.StrictMode>
     <App />	
   </React.StrictMode>,
